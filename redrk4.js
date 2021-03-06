@@ -66,5 +66,3 @@ function redrk4(dydx,y0,t_start, t_end, ts) {
     }
     console.log(result.pop());
 }
-
-// export{redrk4}
